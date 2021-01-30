@@ -1,0 +1,26 @@
+.modal-body {
+	height: 500px;
+}
+
+#leaflet {
+	position: absolute;
+	top: 0;
+	left: 1%;
+	right: 1%;
+	bottom: 10%;
+}
+
+#restaurant-address {
+	position: absolute;
+	bottom: 1%;
+	left: 1%;
+	right: 1%;
+}
+
+tbody tr {
+	cursor: pointer;
+}
+
+tbody tr:hover {
+	background-color: #ddd;
+}
